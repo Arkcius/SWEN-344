@@ -1,0 +1,31 @@
+[
+    {"name":"steak","category":"proteins","calories":"514","totalFat":"30.6","saturatedFat":"12","transFat":"3","protein":"55.7","carbohydrate":"0"},
+    {"name":"ground beef","category":"proteins","calories":"232","totalFat":"15.6","saturatedFat":"6","transFat":"1.5","protein":"21.3","carbohydrate":"0"},
+    {"name":"chicken","category":"proteins","calories":"164","totalFat":"6.5","saturatedFat":"1.8","transFat":"0.1","protein":"24.9","carbohydrate":"0"},
+    {"name":"fish","category":"proteins","calories":"127","totalFat":"1.4","saturatedFat":"0.2","transFat":"0","protein":"26","carbohydrate":"0"},
+    {"name":"soy","category":"proteins","calories":"96","totalFat":"1","saturatedFat":"0.1","transFat":"0","protein":"22.9","carbohydrate":"2"},
+
+    {"name":"orange","category":"fruits","calories":"62","totalFat":"0.2","saturatedFat":"0","transFat":"0","protein":"1","carbohydrate":"15"},
+    {"name":"banana","category":"fruits","calories":"105","totalFat":"0.4","saturatedFat":"0.1","transFat":"0","protein":"1","carbohydrate":"27"},
+    {"name":"pineapple","category":"fruits","calories":"74","totalFat":"0.2","saturatedFat":"0","transFat":"0","protein":"0.8","carbohydrate":"19.6"},
+    {"name":"grapes","category":"fruits","calories":"110","totalFat":"0.3","saturatedFat":"0","transFat":"0","protein":"1.2","carbohydrate":"29"},
+    {"name":"blueberries","category":"fruits","calories":"83","totalFat":"0.5","saturatedFat":"0","transFat":"0","protein":"1","carbohydrate":"21"},
+
+    {"name":"romaine","category":"vegetables","calories":"15","totalFat":"0","saturatedFat":"0","transFat":"0","protein":"1","carbohydrate":"2"},
+    {"name":"green beans","category":"vegetables","calories":"77","totalFat":"4","saturatedFat":"0.8","transFat":"0","protein":"2.4","carbohydrate":"9.9"},
+    {"name":"squash","category":"vegetables","calories":"68","totalFat":"4.2","saturatedFat":"0.8","transFat":"0","protein":"1.7","carbohydrate":"7.8"},
+    {"name":"spinach","category":"vegetables","calories":"74","totalFat":"4","saturatedFat":"0.8","transFat":"0","protein":"5.3","carbohydrate":"6.8"},
+    {"name":"kale","category":"vegetables","calories":"34","totalFat":"0.5","saturatedFat":"0","transFat":"0","protein":"2.2","carbohydrate":"6.7"},
+
+    {"name":"bread","category":"grains","calories":"69","totalFat":"0.9","saturatedFat":"0.2","transFat":"0","protein":"2","carbohydrate":"13"},
+    {"name":"bagel","category":"grains","calories":"270","totalFat":"1.7","saturatedFat":"0.4","transFat":"0","protein":"10.5","carbohydrate":"53"},
+    {"name":"pita","category":"grains","calories":"124","totalFat":"0.5","saturatedFat":"0.1","transFat":"0","protein":"4.1","carbohydrate":"25"},
+    {"name":"naan","category":"grains","calories":"180","totalFat":"4.5","saturatedFat":"1","transFat":"0","protein":"6","carbohydrate":"30"},
+    {"name":"tortilla","category":"grains","calories":"41","totalFat":"1","saturatedFat":"0.2","transFat":"0","protein":"1","carbohydrate":"6.7"},
+
+    {"name":"milk","category":"dairy","calories":"146","totalFat":"7.9","saturatedFat":"4.6","transFat":"0.3","protein":"7.7","carbohydrate":"11"},
+    {"name":"yoghurt","category":"dairy","calories":"149","totalFat":"8","saturatedFat":"5","transFat":"0.4","protein":"8.5","carbohydrate":"11.4"},
+    {"name":"cheddar cheese","category":"dairy","calories":"113","totalFat":"9.3","saturatedFat":"5.9","transFat":"0.4","protein":"7","carbohydrate":"0.4"},
+    {"name":"skim milk","category":"dairy","calories":"90","totalFat":"0","saturatedFat":"0","transFat":"0","protein":"8","carbohydrate":"11"},
+    {"name":"cottage cheese","category":"dairy","calories":"232","totalFat":"10.2","saturatedFat":"6.4","transFat":"0.5","protein":"28.1","carbohydrate":"6"}
+]
